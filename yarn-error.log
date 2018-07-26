@@ -1,5 +1,5 @@
 Arguments: 
-  E:\Development\Programs\nodejs\node.exe C:\Users\Ryan\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install --production
+  E:\Development\Programs\nodejs\node.exe C:\Users\Ryan\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add numeral@2.0.6
 
 PATH: 
   G:\D Drive Backup\Original Files\For SSD Drive\Original Files\Development\cmder\vendor\conemu-maximus5\ConEmu\Scripts;G:\D Drive Backup\Original Files\For SSD Drive\Original Files\Development\cmder\vendor\conemu-maximus5;G:\D Drive Backup\Original Files\For SSD Drive\Original Files\Development\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files\Oculus\Support\oculus-runtime;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Development\Programs\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;E:\Development\Programs\Git\cmd;;C:\Users\Ryan\AppData\Local\Microsoft\WindowsApps;C:\Users\Ryan\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\heroku\bin
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, scandir 'G:\D Drive Backup\Florcke & Assoc\WorkMoves\Projects\React\ReactCourse2\EXPENSIFY-APP\node_modules\@types'
+  Error: EPERM: operation not permitted, unlink 'G:\D Drive Backup\Florcke & Assoc\WorkMoves\Projects\React\ReactCourse2\EXPENSIFY-APP\node_modules\acorn-dynamic-import\node_modules\.bin'
 
 npm manifest: 
   {
