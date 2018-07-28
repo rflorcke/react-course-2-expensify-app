@@ -6,7 +6,7 @@ import numeral from "numeral";
 
 export class ExpensesSummary extends React.Component {
     renderMessage() {
-        if (this.props.numExpenses > 0) {
+        if (this.props.countExpenses > 0) {
             const { countExpenses: count, totalAmount } = this.props;
             const total = numeral(totalAmount / 100).format("$0,0.00");
             const msg = `Viewing ${count} ${count === 1 ? "expense" : "expenses"} totalling ${total}`;
